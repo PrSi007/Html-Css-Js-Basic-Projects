@@ -1,0 +1,63 @@
+body {
+    background-color:lightskyblue;
+    font-size:20px;
+}
+.Box  {
+    width:50%;
+    background-color: #eee;
+    margin:0px auto;
+    padding:30px;
+    border-radius:10px;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+  }
+  .one  {
+      text-align:center;
+  }
+  
+  p {
+    font-size: 22px;
+  }
+  label {
+      float:left;
+      width:50%;
+      padding-right: 10px;
+      text-align:right;
+      font-size:17px;
+  }
+  button {
+      background-color: #66a5d8;
+      display:block;
+      margin:0px auto;
+      border-radius:5px;
+      padding:10px;
+      font-size:15px;
+      color:white;
+      border-color:lightgray;
+      height:40px;
+  }
+  .chutia {
+     display:inline-block;
+     line-height:30px;
+     font-size:15px;
+
+  }
+  .bsdk  {
+      border-radius:3px;
+      border-color: #ddd;
+      padding:5px;
+      width:35%;
+  }
+  .select  {
+    border-radius:3px;
+    border-color: #ddd;
+    padding:5px;
+    width:15%;
+  }
+  .dabba {
+      width:270px;
+      height:70px;
+      border-radius:3px;
+  }

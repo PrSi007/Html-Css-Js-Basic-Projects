@@ -1,0 +1,54 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding:30px;
+}
+img.profile {
+    width:120px;
+    border-radius: 10px;
+}
+.profile  {
+    text-align: center;
+}
+.content {
+    text-align: center; 
+}
+.posts  {
+    width:80px;
+}
+.box {
+    display:inline-block;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(216, 213, 213);
+    padding:10px;
+    margin:10px;
+    width:90px;
+    height:65px;
+}
+.container  {
+    display:grid;
+    width:80%;
+    margin:0px auto;
+    justify-content:center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 2rem;
+
+}
+.image  {
+    border-radius:30px;
+    align-content: center;
+    justify-items: center;
+    z-index: -1;
+    width:100%;
+}
+.img2  {
+    grid-column:span 2;
+}
+.img3  {
+    grid-column:span 2;
+}
+.img4 {
+    grid-row:span 2;
+    border-radius: 40px;
+}

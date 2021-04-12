@@ -1,0 +1,59 @@
+body  {
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
+.page  {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+.content {
+    padding:10px;
+}
+.dabba {
+    padding: 350px;
+}
+h1.mini  {
+    color: #fff;
+    background-color: #282e34c2;
+    padding: 20px;
+    width: 450px;
+    margin: 0px auto;
+}
+h1.not  {
+    padding:350px;
+}
+.i1 {
+    background-image: url(./WhatsApp\ Image\ 2021-01-14\ at\ 4.30.46\ PM.jpeg);
+    padding:10px;
+}
+.c1 {
+    background-color: lightgrey;
+    color:gray;
+    padding:100px;
+}
+.i2 {
+    background-image: url(./WhatsApp\ Image\ 2021-01-14\ at\ 4.30.50\ PM.jpeg);
+    padding:10px;
+}
+.c2  {
+    background-color:rgb(30, 26, 37);
+    color:white;
+    padding:100px;
+}
+.i3 {
+    background-image: url(./WhatsApp\ Image\ 2021-01-14\ at\ 4.33.33\ PM.jpeg);
+    padding:10px;  
+}
+.c3  {
+    background-color:rgb(30, 26, 37);
+    color:white;
+    padding:100px;
+}
+.i4 {
+    background-image: url(./WhatsApp\ Image\ 2021-01-14\ at\ 4.35.02\ PM.jpeg);
+    padding:10px;
+}

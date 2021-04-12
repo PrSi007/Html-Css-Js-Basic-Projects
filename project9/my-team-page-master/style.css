@@ -1,0 +1,55 @@
+body  {
+    font-family: 'Potta One', cursive;
+    text-align: center;
+    margin:10px;
+    padding:10px;
+}
+.container  {
+    width:80%;
+    margin:0px auto;
+
+}
+.p2  {
+    text-align: left;
+    margin-left:100px;
+}
+.content  {
+    display:flex;
+    padding:20px;
+    margin:90px;
+}
+.p1 {
+    flex:1;
+    text-align: left;
+}
+.p2  {
+    flex:1;
+    margin-left: 200px;
+    margin-right: 1px;
+}
+img {
+    width: 80%;
+    }
+.images  {
+    display:flex;
+    width:95%;
+    padding:20px;
+    justify-content: center;
+}
+.desig  {
+    position:relative;
+    transform:rotateZ(90deg);
+    top:-380px;
+    left:150px;
+}
+.name  {
+    display:inline-block;
+    
+}
+.col1, .col2, .col3 {
+    flex:1;
+    margin:30px;
+}
+.col2  {
+    margin-top: 150px;
+}

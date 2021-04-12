@@ -1,0 +1,26 @@
+body {
+    width:auto
+    background-color : #ffffff;
+}
+h1 {
+    color: rgb(88, 97, 224);
+    text-align :center
+}
+
+h2 {
+    color: DarkCyan;
+    text-align :center
+}
+
+p.Figure1  {
+    text-align :center
+}
+p.Figure2  {
+    text-align :center
+}
+img  {
+    display:block;
+    width:200px;
+    height:300px;
+    margin: 0px auto;
+}
